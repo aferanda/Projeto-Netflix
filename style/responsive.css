@@ -4,10 +4,28 @@
         flex-direction: column;
     }
 
+    header .logo {
+        margin-right: 0mm;
+    }
+
+    header nav:nth-child(2) {
+        margin-top: 15px;
+    }
+
+    header nav:nth-child(3) {
+        display: none;
+    }
+
     .botao {
         margin-top: 5px;
+        margin-bottom: 10px;
         width: 190px;
         height: 60px;
+        padding: 15px 0;
+    }
+
+    .carrosel-filmes {
+        padding: 0 10px;
     }
 }
 
