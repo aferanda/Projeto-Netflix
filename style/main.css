@@ -47,6 +47,7 @@ header nav:nth-child(3) {
     display: flex;
     align-items: center;
     margin-right: 10px;
+    cursor: pointer;
 }
 
 header nav i.fas {
